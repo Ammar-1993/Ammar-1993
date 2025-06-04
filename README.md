@@ -24,8 +24,6 @@
 **Major:** Software Engineering  
 **Qualification:** Bachelor's degree from the College of Engineering, Taiz University, Yemen, 2020  
 **Date of Birth:** 1993  
-**GitHub Username:** Ammar-1993
-
 ---
 
 # Contact Me
