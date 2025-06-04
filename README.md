@@ -13,7 +13,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Ammar-1993&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![telegram badge](https://img.shields.io/badge/Ammar-1993-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/Ammar-1993-grey?style=flat&logo=telegram)](https://t.me/amma_1992) <br>
 </div>
 
 <hr></hr>
