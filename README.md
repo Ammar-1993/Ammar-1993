@@ -32,7 +32,7 @@
 - WhatsApp: [Click here](https://wa.me/967714294340)  
 - Gmail: [Click here](mailto:ammaralnggar@gmail.com)  
 - Portfolio: [https://ammar-1993.github.io/portfolio/](https://ammar-1993.github.io/portfolio/)  
-- GitHub: [https://github.com/Ammar-1993](https://github.com/Ammar-1993)  
+- Linkedin: [https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/](https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/)  
 - Mostaql: [https://mostaql.com/u/ammar_alnaggar](https://mostaql.com/u/ammar_alnaggar)  
 
 ---
