@@ -33,7 +33,7 @@
 - Gmail: [Click here](mailto:ammaralnggar@gmail.com)  
 - Portfolio: [https://ammar-1993.github.io/portfolio/](https://ammar-1993.github.io/portfolio/)  
 - Linkedin: [https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/](https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/)  
-- Mostaql: [https://mostaql.com/u/ammar_alnaggar](https://mostaql.com/u/ammar_alnaggar)  
+- Mostaql: [https://mostaql.com/u/ammar_alnaggar](https://mostaql.com/u/ammar_alnaggar/portfolio/)  
 
 ---
 
