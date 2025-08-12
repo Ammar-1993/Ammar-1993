@@ -78,7 +78,8 @@
 # Important Note on My Experience and Projects
 
 I have several projects on GitHub and a personal website showcasing some of my work, including:  
-- Recruitment System  
+- Job-Board System
+- Face Crypt Cloud   
 - Online Store System  
 - Law Firm Management System  
 - Web Application Vulnerability Scanner  
@@ -94,7 +95,6 @@ In addition, I prepare descriptive applied scientific reports and presentations 
 ![Ammar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar-1993&theme=react&hide_border=true)
 
 ![Ammar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true)
-
 
 </a>
 
