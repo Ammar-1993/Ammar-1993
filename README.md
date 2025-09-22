@@ -11,6 +11,23 @@
 
 </div>
 
+<div align="center">
+
+  <h1>Hey there, I'm Ammar 👋</h1>
+  <p><b>Software Engineer</b> building practical web & mobile solutions.</p>
+  <p>I care about clean architecture, thoughtful UX, and shipping reliable features.</p>
+
+  <p>
+    <a href="mailto:ammaralnggar@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/">LinkedIn</a> •
+    <a href="https://github.com/Ammar-1993">GitHub</a> •
+    <a href="https://ammar-1993.github.io/portfolio/">Portfolio</a>
+  </p>
+
+  <sub>مرحبًا بكم في ملفي الشخصي على GitHub 👋</sub>
+</div>
+
+
 # Ammar Al-Najjar — Software Engineer
 
 > **Hello!;Welcome**  
