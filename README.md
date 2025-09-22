@@ -135,48 +135,15 @@ A few examples of things I’ve built or researched:
 
 ---
 
-## Getting Started
-
-This repository is my **profile/portfolio README**—no build steps required.  
-If you’d like to run sample apps from my projects, see the individual project READMEs.
-
----
-
-## Configuration
-
-N/A for this profile README. Project-specific configuration (.env, API keys, etc.) is documented inside each project.
-
----
-
-## Testing
-
-Project-level tests (where applicable) are described in the corresponding repositories.
-
----
-
-## Screenshots
+## Stats
 
 <div align="center">
-  <img src="https://github.com/Ammar-1993/Ammar-1993/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer at work" width="45%" />
+  <a href="https://github.com/Ammar-1993">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-1993&theme=react&hide_border=true" alt="Ammar's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
-
----
-
-## Roadmap
-
-- Publish deeper case studies for the projects above  
-- Add live demos and walkthrough GIFs  
-- Expand tests and CI for selected repositories  
-- Write short technical notes on architecture decisions
-
----
-
-## Contributing
-
-Suggestions and improvements are welcome.
-1. Open an issue describing the change  
-2. (Optional) Submit a PR referencing the issue  
-3. I’ll review and discuss—thank you!
 
 ---
 
@@ -184,14 +151,6 @@ Suggestions and improvements are welcome.
 
 Unless otherwise noted in specific repos, my code samples are shared under the **MIT License**.  
 Media (images/GIFs) remain © Ammar Al-Najjar unless stated otherwise.
-
----
-
-## Acknowledgments
-
-- GitHub cards by **anuraghazra** and **DenverCoder1**  
-- Badges via **shields.io**  
-- Animated Fluent Emojis by **Tarikul-Islam-Anik**
 
 ---
 
@@ -205,15 +164,3 @@ Practical systems that help people—dashboards, internal tools, secure CRUD app
 
 **Do you mentor or review code?**  
 I’m happy to provide light feedback; just open an issue or send a message.
-
----
-
-## Stats
-
-<div align="center">
-  <a href="https://github.com/Ammar-1993">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-1993&theme=react&hide_border=true" alt="Ammar's GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
