@@ -28,13 +28,6 @@
 </div>
 
 
-# Ammar Al-Najjar — Software Engineer
-
-> **Hello!;Welcome**  
-> I’m a software engineer focused on building practical web and mobile solutions.  
-> I enjoy clean architecture, thoughtful UX, and shipping reliable features.  
-> Open to collaboration, freelance opportunities, and interesting problems.
-
 ---
 
 <p align="center">
