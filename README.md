@@ -19,9 +19,8 @@
 
   <p>
     <a href="mailto:ammaralnggar@gmail.com">Email</a> •
-    <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/">LinkedIn</a> •
-    <a href="https://github.com/Ammar-1993">GitHub</a> •
-    <a href="https://ammar-1993.github.io/portfolio/">Portfolio</a>
+        <a href="https://ammar-1993.github.io/portfolio/">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/">LinkedIn</a>
   </p>
 
   <sub>مرحبًا بكم في ملفي الشخصي على GitHub 👋</sub>
@@ -42,7 +41,7 @@
 
 ## About
 
-- **Name:** Ammar Ali Abdo Morshed  
+- **Name:** Ammar Ali Abdo Morshed Al-Najjar
 - **Degree:** B.Eng. in Software Engineering — Taiz University, Yemen (2020)  
 - **What I do:** Full-stack development (web & mobile), project analysis & design, end-to-end delivery  
 - **Interests:** Clean code, API design, system modeling, security basics, developer experience
@@ -54,26 +53,23 @@
 > Have feedback, project ideas, or a role that fits? Let’s talk.
 
 <p>
-  <a href="mailto:ammaralnggar@gmail.com?subject=Hello%20Ammar" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ammaralnggar%40gmail.com-555?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ammar-1993" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Ammar--1993-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://wa.me/967714294340" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://t.me/amma_1992" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@amma__1992-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="mailto:ammaralnggar@gmail.com?subject=Hello%20Ammar" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ammaralnggar%40gmail.com-555?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://ammar-1993.github.io/portfolio/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-3E7FFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://mostaql.com/u/ammar_alnaggar/portfolio/" target="_blank">
     <img alt="Mostaql" src="https://img.shields.io/badge/Mostaql-Portfolio-6C63FF?style=for-the-badge" />
+  </a>
+  <a href="https://t.me/amma_1992" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@amma__1992-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
