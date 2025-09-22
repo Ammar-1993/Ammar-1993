@@ -11,6 +11,7 @@
 
 </div>
 
+
 <div align="center">
 
   <h1>Hey there, I'm Ammar 👋</h1>
@@ -27,7 +28,9 @@
 </div>
 
 
+
 ---
+
 
 <p align="center">
   <a href="#about">About</a> •
@@ -36,6 +39,7 @@
   <a href="#contact-me">Contact</a> •
   <a href="#stats">Stats</a>
 </p>
+
 
 ---
 
@@ -138,17 +142,26 @@ A few examples of things I’ve built or researched:
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&count_private=true"
+    alt="Ammar's GitHub Stats"
+  />
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Ammar-1993&theme=react&hide_border=true" alt="Ammar's GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com?user=Ammar-1993&theme=react&hide_border=true"
+      alt="Ammar's GitHub Streak"
+    />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true"
+    alt="Top Languages"
+  />
 </div>
 
 ---
