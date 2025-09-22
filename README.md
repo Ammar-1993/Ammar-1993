@@ -13,29 +13,20 @@
 
 # Ammar Al-Najjar — Software Engineer
 
-> **TL;DR**  
+> **Hello!;Welcome**  
 > I’m a software engineer focused on building practical web and mobile solutions.  
 > I enjoy clean architecture, thoughtful UX, and shipping reliable features.  
 > Open to collaboration, freelance opportunities, and interesting problems.
 
 ---
 
-## Table of Contents
-- [About](#about)
-- [Contact Me](#contact-me)
-- [Highlights](#highlights)
-- [Tech Stack](#tech-stack)
-- [Selected Projects](#selected-projects)
-- [Getting Started](#getting-started)
-- [Configuration](#configuration)
-- [Testing](#testing)
-- [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [FAQ](#faq)
-- [Stats](#stats)
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#selected-projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#contact-me">Contact</a> •
+  <a href="#stats">Stats</a>
+</p>
 
 ---
 
