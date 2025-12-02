@@ -138,7 +138,21 @@ A few examples of things I’ve built or researched:
 
 ## Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=21600" alt="Ammar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Ammar-1993&theme=react&hide_border=true&v=2" alt="Ammar's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true&cache_seconds=21600" alt="Top Languages" />
+</p>
+
+<!-- <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=21600"
     alt="Ammar's GitHub Stats"
@@ -159,7 +173,7 @@ A few examples of things I’ve built or researched:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true&cache_seconds=21600"
     alt="Top Languages"
   />
-</div>
+</div> -->
 
 ---
 
