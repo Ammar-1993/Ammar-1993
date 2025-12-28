@@ -139,7 +139,7 @@ A few examples of things I’ve built or researched:
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&cache_seconds=21600" alt="Ammar's GitHub Stats" />
+  <img src="https://github-readme-stats-tawny-six-84.vercel.app/api?username=Ammar-1993&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=21600" alt="Ammar's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -149,7 +149,7 @@ A few examples of things I’ve built or researched:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://github-readme-stats-tawny-six-84.vercel.app/api/top-langs/?username=Ammar-1993&layout=compact&theme=react&hide_border=true&cache_seconds=21600" alt="Top Languages" />
 </p>
 
 ---
