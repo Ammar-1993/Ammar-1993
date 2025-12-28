@@ -143,9 +143,7 @@ A few examples of things I’ve built or researched:
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-xi-sandy.vercel.app/?user=Ammar-1993&theme=react&hide_border=true" alt="Ammar's GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats-xi-sandy.vercel.app/?user=Ammar-1993&theme=react&hide_border=true" alt="Ammar's GitHub Streak" />
 </p>
 
 <p align="center">
