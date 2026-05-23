@@ -40,11 +40,11 @@
 
 ### 🧐 About Me
 
- 🔭 I’m currently working on building **scalable web applications**.
- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**.
- 👯 I’m looking to collaborate on **Open Source projects**.
- 💬 Ask me about **Full Stack Development, Android**.
- 📫 Data Analyst & **System Designer**.
+🔭 I’m currently working on building **scalable web applications**.<br>
+🌱 I’m currently learning **Advanced System Design & Cloud Architecture**.<br>
+👯 I’m looking to collaborate on **Open Source projects**.<br>
+💬 Ask me about **Full Stack Development, Android**.<br>
+📫 Data Analyst & **System Designer**.
 
 ---
 
