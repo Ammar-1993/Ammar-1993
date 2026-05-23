@@ -10,14 +10,14 @@
     Based in Yemen. B.Eng. in Software Engineering (2020).
   </p>
 
-<p>
+  <p>
     <a href="https://github.com/Ammar-1993/Ammar-1993/commits?author=Ammar-1993">
-      <img src="https://img.shields.io/badge/last%20commit-today-61dafb?style=for-the-badge&labelColor=20232a&logo=git&logoColor=ffffff" alt="Last Commit">
+      <img src="https://img.shields.io/badge/last%20commit-today-20232a?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit">
     </a>
     <a href="https://github.com/Ammar-1993?tab=followers">
-      <img src="https://img.shields.io/github/followers/Ammar-1993?style=for-the-badge&logo=github&color=61dafb&labelColor=20232a&logoColor=ffffff&label=Followers" alt="Followers">
+      <img src="https://img.shields.io/github/followers/Ammar-1993?style=for-the-badge&logo=github&color=orange&label=Followers" alt="Followers">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Ammar-1993&style=for-the-badge&color=61dafb&labelColor=20232a&label=PROFILE+VIEWS" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Ammar-1993&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
   </p>
 
   <p>
