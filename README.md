@@ -93,5 +93,5 @@
 ---
 
 <div align="center">
-  <sub>All rights reserved © 2026 Ammar Al-Najjar</sub>
+  <sub>All rights reserved © 2026 Engineer Ammar Al-Najjar</sub>
 </div>
