@@ -88,7 +88,7 @@
 | **Law Firm System** | Management for cases, clients, tasks, and reports. | PHP, MySQL, JS |
 
 > [!TIP]
-> Check out my [Portfolio](https://ammar-1993.github.io/portfolio/) for live demos!
+> Check out my [Portfolio](https://ammar1993.vercel.app/) for live demos!
 
 ---
 
