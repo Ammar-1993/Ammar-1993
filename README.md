@@ -43,7 +43,7 @@
 🔭 I’m currently working on building **scalable web applications**.<br>
 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**.<br>
 👯 I’m looking to collaborate on **Open Source projects**.<br>
-💬 Ask me about **Full Stack Development, Android**.<br>
+💬 Ask me about **Full Stack Development, Software Engineer**.<br>
 📫 Data Analyst & **System Designer**.
 
 ---
