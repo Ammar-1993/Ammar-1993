@@ -27,7 +27,7 @@
      <a href="mailto:ammaralnggar@gmail.com">
       <img src="https://img.shields.io/badge/Email-Message_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://ammar-1993.github.io/portfolio/">
+    <a href="https://ammar1993.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-3E7FFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://wa.me/967714294340">
