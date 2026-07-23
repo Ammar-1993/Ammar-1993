@@ -97,7 +97,7 @@ An Arabic-first RTL e-learning marketplace built as a monorepo: a **Laravel 12**
 | **[Taj-Platform](https://github.com/Ammar-1993/Taj-Platform)** 🎓 | Arabic-first e-learning marketplace: live classrooms, whiteboard, role-based access | Laravel 12, Next.js 14, Agora RTC |
 | **[Law-Pro](https://github.com/Ammar-1993/lawprosystem)** | Law-firm management: cases, clients, tasks & reports — my top community-engagement repo | Laravel, MySQL, JS |
 | **[Jobs-Platform](https://github.com/Ammar-1993/job-app)** | Recruitment system split into a shared-kernel architecture (`job-app`, `job-backoffice`, `job-shared`) | Laravel, MySQL, Bootstrap |
-| **[Face-Crypt](https://github.com/Ammar-1993/Face-Crypt-Cloud-Arabic)** | Secure cloud storage gated by facial-recognition authentication | Python, OpenCV, Cloud |
+| **[Face-Encryption](https://github.com/Ammar-1993/Face-Crypt-Cloud-Arabic)** | Secure cloud storage gated by facial-recognition authentication | Python, OpenCV, Cloud |
 
 > [!TIP]
 > Check out my [Portfolio](https://ammar1993.vercel.app/) for live demos!
