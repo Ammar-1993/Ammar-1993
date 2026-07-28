@@ -21,9 +21,9 @@
 
   <p>
     <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:ammaralnggar@gmail.com"><img src="https://img.shields.io/badge/Email-ammaralnggar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:ammaralnggar@gmail.com"><img src="https://img.shields.io/badge/Email-Message_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://ammar1993.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-3E7FFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-    <a href="https://wa.me/967714294340"><img src="https://img.shields.io/badge/WhatsApp-+967714294340-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+    <a href="https://wa.me/967714294340"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
 </div>
 
@@ -34,9 +34,9 @@
 I bridge the gap between complex business requirements and high-performance technical architecture. Rather than just writing code, I focus on system reliability, database query optimization, and defensive engineering.
 
 ### 🌟 Key Engineering Benchmarks:
-- 🎓 **Real-Time Scalability:** Architected **[Taj-Platform](https://api.taj-edu.online/)** to seamlessly support **200+ concurrent live virtual classrooms** with **<100ms latency** by decoupling media traffic from the backend API.
-- ⚖️ **High-Engagement & Optimization:** Developed and open-sourced **[LawProSystem](https://github.com/Ammar-1993/lawprosystem)** (my #1 most active community repo ⭐ 9 Stars, 🍴 2 Forks), achieving a **40% database query optimization** through advanced Laravel Eloquent indexing and eager loading.
-- 🧩 **Shared-Kernel Micro-Architecture:** Designed **[Jobs-Platform](https://hireme-platform.online/)** across a multi-repository ecosystem with AI-powered resume analysis and automated feedback loops.
+- 🎓 **Real-Time Scalability:** Architected **[Taj-Platform](https://api.taj-edu.online/)** *(Live API)* to seamlessly support **200+ concurrent live virtual classrooms** with **<100ms latency** by decoupling media traffic from the backend API.
+- ⚖️ **High-Engagement & Optimization:** Developed and open-sourced **[LawProSystem](https://github.com/Ammar-1993/lawprosystem)** *(my #1 most active community repo —* ![Stars](https://img.shields.io/github/stars/Ammar-1993/lawprosystem?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/Ammar-1993/lawprosystem?style=flat-square&label=%F0%9F%8D%B4)*)*, achieving a **40% database query optimization** through advanced Laravel Eloquent indexing and eager loading.
+- 🧩 **Shared-Kernel Micro-Architecture:** Designed **[Jobs-Platform](https://hireme-platform.online/)** *(Live Site)* across a multi-repository ecosystem with AI-powered resume analysis and automated feedback loops.
 
 > **🔧 Current Engineering Focus:** Containerizing and modernizing LawProSystem's dev environment (**WSL2 + Docker + Architecture Refactoring**) while deepening **Cloud DevOps** and **Distributed Systems Design**.
 
@@ -44,7 +44,7 @@ I bridge the gap between complex business requirements and high-performance tech
 
 ## 🚀 Flagship Architecture — Taj-Platform
 
-An Arabic-first, RTL e-learning marketplace built as a highly decoupled monorepo. The Next.js 14 frontend communicates with the Laravel 12 API over REST, while the virtual classroom (live video, screen sharing, and interactive whiteboard) connects **directly browser-to-provider** through Agora and Netless—keeping the backend API server completely free of heavy media traffic.
+An Arabic-first, RTL e-learning marketplace built as a highly decoupled monorepo. The Next.js 14 frontend communicates with the Laravel 12 API over REST, while the virtual classroom (live video, screen sharing, and interactive whiteboard) connects **directly browser-to-provider** through Agora and Netless—keeping the backend API server free of heavy media traffic. The queue worker only touches the whiteboard service for lightweight, asynchronous state persistence (not live media).
 
 ```mermaid
 graph LR
@@ -73,11 +73,10 @@ graph LR
     API --> DB
     ADMIN --> DB
     API --> QUEUE
-    QUEUE --> WB
+    QUEUE -.->|periodic state sync| WB
     API --> PAY
     API -.-> MON
     FE -.-> MON
-
 ```
 
 ---
@@ -101,7 +100,7 @@ graph LR
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://my-streak-stats-red.vercel.app">
     <img src="https://my-streak-stats-red.vercel.app?user=Ammar-1993&theme=react&hide_border=true&v=2" alt="Ammar's GitHub Streak" />
   </a>
 </p>
@@ -116,9 +115,9 @@ graph LR
 
 | Project | Description | Tech Stack |
 |:--- |:--- |:--- |
-| **[TajPlatform](https://github.com/Ammar-1993/Taj-Platform)** | Arabic-first e-learning marketplace: live classrooms, whiteboard, role-based access | Laravel 12, Next.js 14, Agora RTC |
-| **[JobsPlatform](https://github.com/Ammar-1993/job-app)** | Recruitment system split into a shared-kernel architecture | Laravel 12, MySQL, Tailwind CSS, OpenAI |
+| **[Taj-Platform](https://github.com/Ammar-1993/Taj-Platform)** | Arabic-first e-learning marketplace: live classrooms, whiteboard, role-based access | Laravel 12, Next.js 14, Agora RTC |
 | **[LawProSystem](https://github.com/Ammar-1993/lawprosystem)** | Law-firm management: cases, clients, tasks & reports — my top community-engagement repo | Laravel, MySQL, JS |
+| **[Jobs-Platform](https://github.com/Ammar-1993/job-app)** | Recruitment system split into a shared-kernel architecture | Laravel 12, MySQL, Tailwind CSS, OpenAI |
 | **[FaceCryptCloud](https://github.com/Ammar-1993/Face-Crypt-Cloud-Arabic)** | Secure cloud storage gated by facial-recognition authentication | Python, OpenCV, Cloud |
 
 > [!TIP]
