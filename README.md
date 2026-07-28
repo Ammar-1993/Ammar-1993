@@ -1,62 +1,92 @@
 <div align="center">
-  <img src="https://github.com/Ammar-1993/Ammar-1993/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="40%" />
+  <img src="https://raw.githubusercontent.com/Ammar-1993/Ammar-1993/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="38%" />
 
-  <h1>Hi there, I'm Ammar 👋</h1>
+  <h1>Hi there, I'm Eng. Ammar Al-Najjar 👋</h1>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Laravel+%2B+Next.js+Specialist;Building+Taj-Platform+%F0%9F%8E%93" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Software+Engineer;Laravel+12+%2B+Next.js+14+Specialist;Architecting+Scalable+Real-Time+Systems;Deepening+Cloud+Architecture+%26+DevOps" alt="Typing SVG" />
+  </a>
 
   <p>
-    Full-stack engineer with 5+ years building production web platforms — from live-classroom<br>
-    e-learning systems to law-firm management software. B.Sc. in Software Engineering.
+    <b>Full-Stack Systems Architect with 5+ years building distributed production platforms.</b><br>
+    Specializing in decoupled monorepos, real-time communication (WebRTC/Agora), and AI-driven automation.<br>
+    <i>B.Sc. in Software Engineering (Very Good) • Authenticated by Mosadaqa Platform (KSA)</i>
   </p>
 
   <p>
-    <a href="https://github.com/Ammar-1993/Ammar-1993/commits?author=Ammar-1993">
-      <img src="https://img.shields.io/badge/last%20commit-today-20232a?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit">
-    </a>
-    <a href="https://github.com/Ammar-1993?tab=followers">
-      <img src="https://img.shields.io/github/followers/Ammar-1993?style=for-the-badge&logo=github&color=orange&label=Followers" alt="Followers">
-    </a>
+    <a href="https://github.com/Ammar-1993/Ammar-1993/commits?author=Ammar-1993"><img src="https://img.shields.io/badge/last%20commit-today-20232a?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit"></a>
+    <a href="https://github.com/Ammar-1993?tab=followers"><img src="https://img.shields.io/github/followers/Ammar-1993?style=for-the-badge&logo=github&color=orange&label=Followers" alt="Followers"></a>
     <img src="https://komarev.com/ghpvc/?username=Ammar-1993&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-     <a href="mailto:ammaralnggar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Message_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://ammar1993.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-3E7FFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://wa.me/967714294340">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
+    <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:ammaralnggar@gmail.com"><img src="https://img.shields.io/badge/Email-ammaralnggar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://ammar1993.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-3E7FFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://wa.me/967714294340"><img src="https://img.shields.io/badge/WhatsApp-+967714294340-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
 </div>
 
 ---
 
-### 🧐 About Me
+## 🧐 Executive Profile & Engineering Impact
 
-🎓 Building **[Taj-Platform](https://github.com/Ammar-1993/Taj-Platform)** — an Arabic-first, RTL e-learning marketplace with live classrooms and an interactive whiteboard.<br>
-⚖️ Modernizing **[lawprosystem](https://github.com/Ammar-1993/lawprosystem)**, a law-firm case & client management system — my highest-engagement open-source repo.<br>
-🌱 Currently deepening **System Design & Cloud Architecture**.<br>
-👯 Open to collaborating on open-source projects.<br>
-💬 Ask me about Laravel, Next.js, real-time systems (Agora/WebRTC), or full-stack architecture.
+I bridge the gap between complex business requirements and high-performance technical architecture. Rather than just writing code, I focus on system reliability, database query optimization, and defensive engineering.
+
+### 🌟 Key Engineering Benchmarks:
+- 🎓 **Real-Time Scalability:** Architected **[Taj-Platform](https://github.com/Ammar-1993/Taj-Platform)** to seamlessly support **200+ concurrent live virtual classrooms** with **<100ms latency** by decoupling media traffic from the backend API.
+- ⚖️ **High-Engagement & Optimization:** Developed and open-sourced **[LawProSystem](https://github.com/Ammar-1993/lawprosystem)** (my #1 most active community repo ⭐ 9 Stars, 🍴 2 Forks), achieving a **40% database query optimization** through advanced Laravel Eloquent indexing and eager loading.
+- 🧩 **Shared-Kernel Micro-Architecture:** Designed **[Jobs-Platform](https://hireme-platform.online/)** across a multi-repository ecosystem with AI-powered resume analysis and automated feedback loops.
+
+> **🔧 Current Engineering Focus:** Containerizing and modernizing LawProSystem's dev environment (**WSL2 + Docker + Architecture Refactoring**) while deepening **Cloud DevOps** and **Distributed Systems Design**.
 
 ---
 
-### 🚀 Flagship Project — Taj-Platform
+## 🚀 Flagship Architecture — Taj-Platform
 
-An Arabic-first RTL e-learning marketplace built as a monorepo: a **Laravel 12** REST API control plane paired with a **Next.js 14** frontend, plus a real-time data plane connecting directly browser-to-Agora (live video) and browser-to-Netless (interactive whiteboard).
+An Arabic-first, RTL e-learning marketplace built as a highly decoupled monorepo. The Next.js 14 frontend communicates with the Laravel 12 API over REST, while the virtual classroom (live video, screen sharing, and interactive whiteboard) connects **directly browser-to-provider** through Agora and Netless—keeping the backend API server completely free of heavy media traffic.
 
-- Four role-based experiences: Super Admin, Teacher, Student, Parent
-- Sanctum token auth, Spatie RBAC, Filament v3 admin panel with full RTL/Cairo-font support
-- React Query + Tailwind, Redis-backed queues, Sentry monitoring
+```mermaid
+graph LR
+    FE[Next.js Frontend]
 
-**[→ View the repo](https://github.com/Ammar-1993/Taj-Platform)**
+    subgraph Live["🎓 Live Classroom — Direct Connections"]
+        RTC[Agora RTC]
+        RTM[Agora RTM]
+        WB[Netless Whiteboard]
+    end
+
+    subgraph BE["⚙️ Laravel Backend"]
+        API[REST API v1]
+        ADMIN[Filament Admin]
+        QUEUE[Queue Worker]
+    end
+
+    DB[(MySQL)]
+    PAY[Moyasar]
+    MON[Sentry]
+
+    FE -->|REST| API
+    FE <--> RTC
+    FE <--> RTM
+    FE <--> WB
+    API --> DB
+    ADMIN --> DB
+    API --> QUEUE
+    QUEUE --> WB
+    API --> PAY
+    API -.-> MON
+    FE -.-> MON
+
+```
+
+---
+
+## 🌐 Live Beta Access
+
+- **🎓 Frontend (Students & Teachers)**: <a href="https://www.taj-edu.online/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+- **👑 Admin Dashboard Panel**: <a href="https://api.taj-edu.online/admin/login" target="_blank" rel="noopener noreferrer">Admin Login</a>
+- **⚙️ Backend API Base URL**: <a href="https://api.taj-edu.online/" target="_blank" rel="noopener noreferrer">API Server</a>
 
 ---
 
