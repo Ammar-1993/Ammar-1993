@@ -82,14 +82,6 @@ graph LR
 
 ---
 
-## 🌐 Live Beta Access
-
-- **🎓 Frontend (Students & Teachers)**: <a href="https://www.taj-edu.online/" target="_blank" rel="noopener noreferrer">Live Demo</a>
-- **👑 Admin Dashboard Panel**: <a href="https://api.taj-edu.online/admin/login" target="_blank" rel="noopener noreferrer">Admin Login</a>
-- **⚙️ Backend API Base URL**: <a href="https://api.taj-edu.online/" target="_blank" rel="noopener noreferrer">API Server</a>
-
----
-
 ### 💻 Tech Stack
 
 <div align="center">
