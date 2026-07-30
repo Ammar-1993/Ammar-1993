@@ -34,7 +34,7 @@
 I bridge the gap between complex business requirements and high-performance technical architecture. Rather than just writing code, I focus on system reliability, database query optimization, and defensive engineering.
 
 ### 🌟 Key Engineering Benchmarks:
-- 🎓 **Real-Time Scalability:** Architected **[Taj-Platform](https://github.com/Ammar-1993/Taj-Platform)** to seamlessly support **200+ concurrent live virtual classrooms** with **<100ms latency** by decoupling media traffic from the backend API.
+- 🎓 **Real-Time Scalability:** Architected **[Taj-Platform](https://www.taj-edu.online/)** to seamlessly support **200+ concurrent live virtual classrooms** with **<100ms latency** by decoupling media traffic from the backend API.
 - ⚖️ **High-Engagement & Optimization:** Developed and open-sourced **[LawProSystem](https://github.com/Ammar-1993/lawprosystem)** *(my #1 most active community repo —* ![Stars](https://img.shields.io/github/stars/Ammar-1993/lawprosystem?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/Ammar-1993/lawprosystem?style=flat-square&label=%F0%9F%8D%B4)*)*, cutting query latency by **40%** through advanced Laravel Eloquent indexing and eager loading.
 - 🧩 **Shared-Kernel Micro-Architecture:** Designed **[Jobs-Platform](https://hireme-platform.online/)** across a multi-repository ecosystem with AI-powered resume analysis and automated feedback loops.
 
