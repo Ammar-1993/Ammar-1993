@@ -143,7 +143,7 @@ Whether you are scaling an existing high-traffic Laravel/Next.js platform, archi
     <img src="https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://wa.me/967714294340">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://ammar1993.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-3E7FFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
