@@ -29,7 +29,7 @@
 
 ---
 
-## 🧐 Executive & Engineering Impact
+## 🧐 Executive Profile & Engineering Impact
 
 I bridge the gap between complex business requirements and high-performance technical architecture. Rather than just writing code, I focus on system reliability, database query optimization, and defensive engineering.
 
