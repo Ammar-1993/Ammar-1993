@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Eng. Ammar Al-Najjar 👋</h1>
 
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Laravel+12+%2B+Next.js+14+Specialist;Architecting+Scalable+Real-Time+Systems;Deepening+Cloud+Architecture+%26+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Laravel+%2B+Next.js+Specialist;Architecting+Scalable+Real-Time+Systems;Deepening+Cloud+Architecture+%26+DevOps" alt="Typing SVG" />
   </a>
 
   <p>
