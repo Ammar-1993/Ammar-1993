@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <b>Full-Stack Systems Architect with 5+ years building distributed production platforms.</b><br>
+    <b>Full-Stack Software Engineer with 5+ years building distributed production platforms.</b><br>
     Specializing in decoupled monorepos, real-time communication (WebRTC/Agora), and AI-driven automation.<br>
     <i>B.Sc. in Software Engineering (Very Good) • Authenticated by Mosadaqa Platform (KSA)</i>
   </p>
