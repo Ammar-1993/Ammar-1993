@@ -63,6 +63,7 @@ graph LR
     end
 
     DB[(MySQL)]
+    REDIS[(Redis)]
     PAY[Moyasar]
     MON[Sentry]
 
@@ -71,9 +72,11 @@ graph LR
     FE <--> RTM
     FE <--> WB
     API --> DB
+    API --> REDIS
     ADMIN --> DB
     API --> QUEUE
-    QUEUE -.->|periodic state sync| WB
+    QUEUE -->|Redis| REDIS
+    QUEUE --> WB
     API --> PAY
     API -.-> MON
     FE -.-> MON
