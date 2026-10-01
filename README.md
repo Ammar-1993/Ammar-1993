@@ -44,7 +44,7 @@ I bridge the gap between complex business requirements and high-performance tech
 
 ## 🚀 Flagship Architecture — Taj-Platform
 
-An Arabic-first, RTL e-learning marketplace built as a highly decoupled monorepo. The Next.js 14 frontend communicates with the Laravel 12 API over REST, while the virtual classroom (live video, screen sharing, and interactive whiteboard) connects **directly browser-to-provider** through Agora and Netless—keeping the backend API server free of heavy media traffic. The queue worker only touches the whiteboard service for lightweight, asynchronous state persistence (not live media).
+An Arabic-first, RTL e-learning marketplace built as a highly decoupled monorepo. The Next.js 15 frontend communicates with the Laravel 12 API over REST, while the virtual classroom (live video, screen sharing, and interactive whiteboard) connects **directly browser-to-provider** through Agora and Netless—keeping the backend API server free of heavy media traffic. The queue worker only touches the whiteboard service for lightweight, asynchronous state persistence (not live media).
 
 ```mermaid
 graph LR
@@ -107,7 +107,7 @@ graph LR
 
 | **Project Name** | **Architecture & Description** | **Tech Stack & Highlights** | **Live / Repositories** |
 | --- | --- | --- | --- |
-| **[Taj-Platform](https://github.com/Ammar-1993/Taj-Platform)** | Decoupled e-learning monorepo with live video streaming & interactive whiteboard | Laravel 12, Next.js 14, Agora RTC/RTM, Netless, Redis Queues | [Live](https://www.taj-edu.online/) · [Repo](https://github.com/Ammar-1993/Taj-Platform) |
+| **[Taj-Platform](https://github.com/Ammar-1993/Taj-Platform)** | Decoupled e-learning monorepo with live video streaming & interactive whiteboard | Laravel 12, Next.js 15, Agora RTC/RTM, Netless, Redis Queues | [Live](https://www.taj-edu.online/) · [Repo](https://github.com/Ammar-1993/Taj-Platform) |
 | **[LawProSystem](https://github.com/Ammar-1993/lawprosystem)** | Law-firm case & client management platform — my #1 most active community repo | Laravel, MySQL, JS, Eloquent query optimization (**-40% latency**) | [Repo](https://github.com/Ammar-1993/lawprosystem) |
 | **[Jobs-Platform](https://hireme-platform.online/)** | AI-assisted recruitment system engineered using a **shared-kernel** micro-architecture | Laravel 12, MySQL, Tailwind CSS, OpenAI resume analyzer | [Live App](https://hireme-platform.online/) · [app](https://github.com/Ammar-1993/job-app) · [backoffice](https://github.com/Ammar-1993/job-backoffice) · [shared](https://github.com/Ammar-1993/job-shared) |
 | **[E-Bookstore](https://github.com/Ammar-1993/online-bookstore-system)** | Full e-commerce system with dynamic cart, Stripe payment gateway, and PDF reporting | TALL Stack (Tailwind, Alpine.js, Laravel, Livewire), Stripe API | [Repo](https://github.com/Ammar-1993/online-bookstore-system) |
